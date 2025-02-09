@@ -1,0 +1,4 @@
+2024-08-03 20:46:31.992297 [ERROR]: ConnectionPool::init —— MySql(mysql_real_connect) Error!
+2024-08-03 22:03:22.716873 [ERROR]: ConnectionPool::init —— MySql(mysql_real_connect) Error!
+2024-08-03 22:03:52.225852 [ERROR]: ConnectionPool::init —— MySql(mysql_real_connect) Error!
+2024-08-03 22:06:48.097713 [ERROR]: ConnectionPool::init —— MySql(mysql_real_connect) Error!
